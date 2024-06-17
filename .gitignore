@@ -1,0 +1,12 @@
+*.ini
+*.json
+*.lst
+cfg/
+
+*.bat
+!run-all.bat
+
+*.cmd
+!rundebug.cmd
+!rundebug-*.cmd
+!run-edit.cmd
